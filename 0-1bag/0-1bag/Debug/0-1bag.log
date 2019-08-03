@@ -1,0 +1,9 @@
+﻿  源.cpp
+c:\users\k\desktop\dsexp\0-1bag\0-1bag\源.cpp(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+c:\users\k\desktop\dsexp\0-1bag\0-1bag\源.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+c:\users\k\desktop\dsexp\0-1bag\0-1bag\源.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+  0-1bag.vcxproj -> C:\Users\K\Desktop\DSexp\0-1bag\Debug\0-1bag.exe
+  0-1bag.vcxproj -> C:\Users\K\Desktop\DSexp\0-1bag\Debug\0-1bag.pdb (Partial PDB)

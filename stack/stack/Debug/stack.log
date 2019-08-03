@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\k\desktop\dsexp\stack\stack\源.cpp(28): warning C4715: “stack::pop”: 不是所有的控件路径都返回值
+  stack.vcxproj -> C:\Users\K\Desktop\DSexp\stack\Debug\stack.exe
+  stack.vcxproj -> C:\Users\K\Desktop\DSexp\stack\Debug\stack.pdb (Partial PDB)
